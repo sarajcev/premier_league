@@ -1,2 +1,2 @@
-# premier_league
-Premier league betting odds with Bayes Models
+# Premier League football betting odds
+Analysis of Premier League football betting odds with Bayesian Models
